@@ -1,0 +1,24 @@
+{
+  "release": "week10_github_submit_v1.0",
+  "title": "Week 10 八家公司数据优化、价值开发与结项",
+  "scope": {
+    "companies": 8,
+    "variables": 32,
+    "company_variable_rows": 256,
+    "ninth_company_included": false,
+    "representative_companies_selected": false
+  },
+  "results": {
+    "valid_rows": 215,
+    "structural_na_rows": 38,
+    "not_computable_rows": 3,
+    "confirmed_pevc_companies": 3,
+    "ownership_measurements": 27,
+    "confirmed_pevc_measurements": 16,
+    "complete_pevc_events": 5,
+    "formal_stop_items": 5,
+    "uncomputable_paths": 19
+  },
+  "frozen_inputs_modified": false,
+  "interpretation": "sample-internal descriptive and case analysis only"
+}

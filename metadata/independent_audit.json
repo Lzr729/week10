@@ -1,0 +1,25 @@
+{
+  "stage": "Week 10 Closure",
+  "sheet_count": 10,
+  "companies": 8,
+  "variables": 32,
+  "company_variable_rows": 256,
+  "stages": 8,
+  "academic_questions": 6,
+  "commercial_questions": 6,
+  "pending_items": 7,
+  "boundaries": 10,
+  "checks": 20,
+  "formula_errors": 0,
+  "source_unchanged": true,
+  "hashes_before": {
+    "week8": "24e2ba22dae77bebed52c8d38c146a8c8ca901d85de722ab83bec70eff3932e5",
+    "week9": "e9e389fd37f2dc0959428359849163c87176c86cce58b067d6a83336e087dbaa",
+    "stage8": "dc68d4d2a76893fc9e9b803bffa089a3218810c22f0d1d878c953490fe33ea68"
+  },
+  "hashes_after": {
+    "week8": "24e2ba22dae77bebed52c8d38c146a8c8ca901d85de722ab83bec70eff3932e5",
+    "week9": "e9e389fd37f2dc0959428359849163c87176c86cce58b067d6a83336e087dbaa",
+    "stage8": "dc68d4d2a76893fc9e9b803bffa089a3218810c22f0d1d878c953490fe33ea68"
+  }
+}
